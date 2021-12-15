@@ -62,8 +62,6 @@ The project is about Whatsapp that can be used to text, share photos, videos etc
 5. Make sure to import all the classes. 
 6. Use Flutter or An Android mobile to install the application.
 
-8. 
-
 
 
 
