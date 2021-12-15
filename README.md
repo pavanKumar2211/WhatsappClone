@@ -3,9 +3,9 @@
 The project is about Whatsapp that can be used to text, share photos, videos etc. But this application doesn't have all the features the original Whatsapp has.  
 
 
-REQUIRED SOFTWARE: Android Studio
+**REQUIRED SOFTWARE:** Android Studio
 
-GRADLE DEPENDENCIES: 
+**GRADLE DEPENDENCIES:** 
 
 1. dependencies {
 
@@ -51,7 +51,7 @@ GRADLE DEPENDENCIES:
 2. For more information, visit the following website https://firebase.google.com/docs/android/setup
 
 
-How to install and Android studio: https://developer.android.com/studio/install
+**How to install and Android studio:** https://developer.android.com/studio/install
 
 
 
