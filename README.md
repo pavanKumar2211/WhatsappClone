@@ -54,6 +54,17 @@ The project is about Whatsapp that can be used to text, share photos, videos etc
 **How to install and Android studio:** https://developer.android.com/studio/install
 
 
+**STEPS TO RUN THE CODE:**
+1. Install Android studio.
+2. Create a firebase account and connect it to the Android Studio.
+3. Copy the files and code import them to the IDE.
+4. Copy the dependencies and paste them in file build.Gradle and Sync the IDE.
+5. Make sure to import all the classes. 
+6. Use Flutter or An Android mobile to install the application.
+
+8. 
+
+
 
 
 
